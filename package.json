@@ -1,0 +1,9 @@
+{
+  "name": "newtjs",
+  "version": "1.0.0",
+  "description": "A 2d physics engine.",
+  "main": "src/index.ts",
+  "author": "Jimmy McBride <mcbride967@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
